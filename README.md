@@ -1,4 +1,4 @@
-# bitcoin_arbitrage
+# bitcoin_arbitrage #
 
 This app is a process of data analysis comparing Bitcoin price indexes between Bitstamp and Coinbase during the Q1 period of 2018. The data is collected from CSV files, prepared, and analyzed. The final analysis reveals where arbitrage opportunities exist throughout the 2018 Q1 time period.
 ---
